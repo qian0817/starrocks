@@ -40,7 +40,7 @@ PROPERTIES (
     "authentication_ldap_simple_server_host" = "",
     "authentication_ldap_simple_server_port" = "",
     "authentication_ldap_simple_bind_base_dn" = "",
-    "authentication_ldap_simple_user_search_attr" = ""
+    "authentication_ldap_simple_user_search_attr" = "",
     "authentication_ldap_simple_bind_root_dn" = "",
     "authentication_ldap_simple_bind_root_pwd" = "",
     "authentication_ldap_simple_ssl_conn_allow_insecure" = "{true | false}",
@@ -230,7 +230,7 @@ SHOW CREATE SECURITY INTEGRATION LDAP1；
       "authentication_ldap_simple_server_host" = "",
       "authentication_ldap_simple_server_port" = "",
       "authentication_ldap_simple_bind_base_dn" = "",
-      "authentication_ldap_simple_user_search_attr" = ""
+      "authentication_ldap_simple_user_search_attr" = "",
       "authentication_ldap_simple_bind_root_dn" = "",
       "authentication_ldap_simple_bind_root_pwd" = "",
       "authentication_ldap_simple_ssl_conn_allow_insecure" = "{true | false}",
